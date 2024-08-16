@@ -1,0 +1,5 @@
+spring:
+  application:
+    name: spring-stream-test
+  profiles:
+    include: stream
